@@ -1,0 +1,48 @@
+
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+p{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 14px;
+}
+
+img{
+	width:150px;
+	height:150px;
+}
+.container{
+	margin: 10px;
+}
+.box{
+	display:inline-block;
+	position: relative;
+
+/*	border-color: black;
+	border-style: solid;
+	border-width: 2px;*/
+	
+}
+
+#animal-form{
+	
+	width:200px;
+	float:left;
+}
+.animal{
+	width:150px;
+	float:left;
+}
+.imgBtn{
+	float:left;
+}
+#animals-view{
+	width:600px;
+	/*display:inline-block;*/
+	float:left;
+}
